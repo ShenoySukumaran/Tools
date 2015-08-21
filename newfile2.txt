@@ -5,3 +5,7 @@ sdf
 adfddaf adfasdfafd
 
 master changed...
+=======
+added in branch "new feature"
+
+test new_feature..
